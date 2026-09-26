@@ -2,7 +2,6 @@ backend:
   name: github
   repo: marylelinsky-glitch/marylelinsky.github.io
   branch: main
-  base_url: https://blog.marylelinsky.workers.dev
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
